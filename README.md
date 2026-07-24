@@ -46,12 +46,15 @@ I'm a passionate **Full Stack Developer** dedicated to solving real-life problem
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
 </div>
 
 ### DevOps & Tools
 <div>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </div>
 
 </div>
@@ -89,7 +92,6 @@ I'm a passionate **Full Stack Developer** dedicated to solving real-life problem
 <div align="center">
 
 
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=018-alfred&theme=radical&hide_border=true&background=0d1117)](https://github.com/018-alfred)
 
 </div>
@@ -106,7 +108,7 @@ I'm always interested in collaborating on exciting projects and connecting with 
 
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/alfred-vishal-215191369/)
 [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/018-alfred)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">](mailto:alfredvishal25@gmail.com)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">](mailto:your-email@example.com)
 
 </div>
 
