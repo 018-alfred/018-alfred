@@ -108,7 +108,7 @@ I'm always interested in collaborating on exciting projects and connecting with 
 
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/alfred-vishal-215191369/)
 [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/018-alfred)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">](mailto:your-email@example.com)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">](mailto:alfredvishal25@gmail.com)
 
 </div>
 
